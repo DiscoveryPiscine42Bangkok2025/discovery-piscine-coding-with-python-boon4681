@@ -1,4 +1,3 @@
-first_name = "Pasawit"
-last_name = "Thongruang"
-my_age = 21
+age = 19
+my_age = age + 42
 print(my_age)
